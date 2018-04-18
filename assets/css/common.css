@@ -517,8 +517,8 @@ section {
   border-top: 1px solid rgba(0, 0, 0, 0.06); }
 
 .section-tb-border {
-  border-top: 1px solid rgba(0, 0, 0, 0.06);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06); }
+/* border-top: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06); */}
 
 .section-bg-color {
   background-color: #f8f8f8; }
